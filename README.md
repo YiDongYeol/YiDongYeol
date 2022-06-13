@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YiDongYeol&theme=synthwave&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiDongYeol&theme=synthwave&layout=compact"/>
 
-<--
+<!--
 ## Tech Stack
 <h3 align='center'>Languages</h3>
 <p>
