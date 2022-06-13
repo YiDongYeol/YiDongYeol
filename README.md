@@ -12,8 +12,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YiDongYeol&theme=synthwave&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiDongYeol&theme=synthwave&layout=compact"/>
 
+<--
 ## Tech Stack
 <h3 align='center'>Languages</h3>
 <p>
   <a href="https://github.com/YiDongYeol/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
 </p>
+-->
+
+## Project List
+- [WPF][WPF프로젝트](https://github.com/YiDongYeol/StudyWpf/tree/main/portfolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
