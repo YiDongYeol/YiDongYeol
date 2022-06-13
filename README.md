@@ -4,19 +4,16 @@
   </a>
 </p>
 
-### YiDongYeol's github
+## YiDongYeol's github
+- Name : Yi Dong Yeol
+- Email : ph31075421@gmail.com
+- 🌱 I’m currently learning IoT Smart Factory on Pukyong national university Employment support business
 
-<!--
-**YiDongYeol/YiDongYeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=YiDongYeol&theme=synthwave&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiDongYeol&theme=synthwave&layout=compact"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+<h3 align='center'>Languages</h3>
+<p>
+  <a href="https://github.com/YiDongYeol/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+</p>
