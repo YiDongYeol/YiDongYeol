@@ -21,4 +21,4 @@
 -->
 
 ## Project List
-- [WPF][WPF프로젝트](https://github.com/YiDongYeol/StudyWpf/tree/main/portfolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
+- [WPF] [WPF프로젝트](https://github.com/YiDongYeol/StudyWpf/tree/main/portfolio)
