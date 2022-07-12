@@ -34,3 +34,4 @@
 
 ## Project List
 - [WPF] [WPF프로젝트](https://github.com/YiDongYeol/StudyWpf/tree/main/portfolio)
+- [RaspberryPi] [얼굴인식 도어락](https://github.com/YiDongYeol/face_recognition_doorlock)
